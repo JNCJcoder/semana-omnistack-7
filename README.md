@@ -1,24 +1,28 @@
-# 7° Semana OmniStack da Rocketseat 🚀
+<h1 align="center">
+  <br>
+  7° Semana OmniStack da Rocketseat 🚀
+  <br>
+</h1>
 
-## InstaRocket
+<h3 align="center">InstaRocket</h4>
 
-Projeto realizado durante o evento da 7° Semana OmniStack, promovido pelo Diego da Rocketseat.
+<h4 align="center">Projeto realizado durante o evento da 7° Semana OmniStack, promovido pelo Diego da Rocketseat.</h4>
 
 > Revisão e rescrita dos codigos foi feita entre Dezembro de 2019 e Janeiro de 2020 para colocar no Github.
 
-## Sobre a Rescrita:
+## 🏗️ Sobre a Rescrita:
 
 Rescrita feita utilizando Prettier e ESLint (ESLint somente no Frontend e Mobile) como forma de organizar melhor o codigo.
 
-## Informações:
+## 💻 Informações:
 
 Clone do sistema de Feed do Instagram.
 
-> Foi utilizado o gerenciador de pacotes <a href="https://yarnpkg.com/pt-BR/">Yarn</a> no Backend, Frontend e Mobile.
+> 🚩 Foi utilizado o gerenciador de pacotes [Yarn](https://yarnpkg.com/pt-BR/) no Backend, Frontend e Mobile.
 
 ### Backend:
 
-Usando <a href="https://nodejs.org/">NodeJS</a> com:
+Usando [NodeJS](https://nodejs.org/) com:
 
 - Express
 - Mongoose
@@ -29,7 +33,7 @@ Usando <a href="https://nodejs.org/">NodeJS</a> com:
 
 ### Frontend:
 
-Feito com <a href="https://reactjs.org/">ReactJS</a> usando:
+Feito com [ReactJS](https://reactjs.org/) usando:
 
 - React Router DOM
 - Axios
@@ -37,7 +41,7 @@ Feito com <a href="https://reactjs.org/">ReactJS</a> usando:
 
 ### Mobile:
 
-Feito com <a href="https://facebook.github.io/react-native/">React Native</a> usando:
+Feito com [React Native](https://facebook.github.io/react-native/) usando:
 
 - React Navigation
 - React Navigation Stack
@@ -45,3 +49,6 @@ Feito com <a href="https://facebook.github.io/react-native/">React Native</a> us
 - React Native Image Picker
 - Axios
 - socket.io-client
+
+## 📝Licença
+Este projeto está sob a licença [MIT](LICENSE.md).
